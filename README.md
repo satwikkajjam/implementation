@@ -33,9 +33,8 @@ The dataset (Housing.csv) includes the following columns:
 ## Requirements
 
 Ensure the following Python libraries are installed:
+install pandas numpy scikit-learn matplotlib
 
-```bash
-pip install pandas numpy scikit-learn matplotlib
 Project Structure
 housing_linear_regression.py: Main script implementing data preprocessing, model training, evaluation, and visualization.
 Housing.csv: Dataset used for training and testing the regression models.
