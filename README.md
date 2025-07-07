@@ -46,6 +46,6 @@ install pandas numpy scikit-learn matplotlib
    git clone https://github.com/satwikkajjam/implementation.git
 
 ## 📊 Visualization
-- **simple_linear_regression.png: Scatter plot of house prices vs. area with the regression line.
-- **multiple_linear_regression.png: Scatter plot of actual vs. predicted prices for multiple linear regression.
+- simple_linear_regression.png: Scatter plot of house prices vs. area with the regression line.
+- multiple_linear_regression.png: Scatter plot of actual vs. predicted prices for multiple linear regression.
 
